@@ -1,0 +1,5 @@
+method: get
+params:
+  corpid: ww7e8290dae1a5371d
+  corpsecret: 9ghF-Z7OhBnSOTeXa0BZG2o1nPXR7zEYHSAImLmdUbA
+url: https://qyapi.weixin.qq.com/cgi-bin/gettoken
